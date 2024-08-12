@@ -2,12 +2,14 @@
 Hello! I'm a teen aspiring software engineer from australia. \
 I love climbing 🧗 and coding 💻
 
-<div align=right style="position: absolute; right: 0">
+<div width="40%" style="position: absolute; margin-left: 60%">
     <img
+        align=right width="40%"
         src="https://github-readme-stats.vercel.app/api?username=marlstar&show_icons=true&theme=tokyonight&bg_color=30,000000,434343"
     />
     <br>
     <img
+    align=right width="40%"
         src="https://github-profile-trophy.vercel.app/?username=marlstar&theme=onedark&title=MultiLanguage,Commits,Experience,Repositories&row=1&column=4"
     />
 </div>

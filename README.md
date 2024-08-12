@@ -2,17 +2,17 @@
 Hello! I'm a teen aspiring software engineer from australia. \
 I love climbing 🧗 and coding 💻
 
-<div align=right>
-<img
-    src="https://github-readme-stats.vercel.app/api?username=marlstar&show_icons=true&theme=tokyonight&bg_color=30,000000,434343"
-/>
-<br>
-<img
-    src="https://github-profile-trophy.vercel.app/?username=marlstar&theme=onedark&title=MultiLanguage,Commits,Experience,Repositories&row=1&column=4"
-/>
+<div align=right style="position: absolute; right: 0">
+    <img
+        src="https://github-readme-stats.vercel.app/api?username=marlstar&show_icons=true&theme=tokyonight&bg_color=30,000000,434343"
+    />
+    <br>
+    <img
+        src="https://github-profile-trophy.vercel.app/?username=marlstar&theme=onedark&title=MultiLanguage,Commits,Experience,Repositories&row=1&column=4"
+    />
 </div>
 
-
+### Development
 [![Rust 1](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Marlstar?tab=repositories&q=&type=&language=rust&sort=)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/Marlstar?tab=repositories&q=&type=&language=python&sort=)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://github.com/Marlstar?tab=repositories&q=&type=&language=lua&sort=)

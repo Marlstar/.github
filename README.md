@@ -3,7 +3,7 @@ Hello! I'm a teen aspiring software engineer from australia. \
 I love climbing 🧗 and coding 💻
 
 <img
-    align=right width="60%"
+    align=right width="50%"
     src="https://github-readme-stats.vercel.app/api?username=marlstar&show_icons=true&theme=tokyonight&bg_color=30,000000,434343"
 />
 

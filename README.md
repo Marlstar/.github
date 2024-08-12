@@ -32,9 +32,11 @@ I love climbing 🧗 and coding 💻
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@themarlstar)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/themarlstar)
 
+<!--- >
 <p align=center><img
     width="100%"
     src="https://github-profile-trophy.vercel.app/?username=marlstar&theme=onedark&title=Commits,Experience,Repositories&row=1&column=3"
 /></p>
+<-->
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/></p>

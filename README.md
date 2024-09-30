@@ -1,36 +1,69 @@
-# Marley Reeves - (The)Marlstar
-Hello! I'm a teen aspiring software engineer from australia. \
-I love climbing 🧗 and coding 💻
+<div align=center>
+<h1>Marley Reeves</h1>
+Hello! I'm a teen aspiring software engineer from Australia <br>
+I love climbing 🧗 and coding 💻 <br>
+Huge rust <img src="https://skillicons.dev/icons?i=rust" style="width:0.9em;height:0.9em"> enthusiast
+</div><br>
 
-<img
-    align=right width="50%"
+<!-- Stats -->
+<div align=center><img
+    align=center
     src="https://github-readme-stats.vercel.app/api?username=marlstar&show_icons=true&theme=tokyonight&bg_color=30,000000,434343"
-/>
+/></div>
 
-### Development
-[![Rust 1](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Marlstar?tab=repositories&q=&type=&language=rust&sort=)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/Marlstar?tab=repositories&q=&type=&language=python&sort=)
-[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://github.com/Marlstar?tab=repositories&q=&type=&language=lua&sort=)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/IronLionsFTC/FTC24089)
+<!-- Development -->
+<div align=center>
+    <h2>Development</h2>
+</div>
+<div align=center> <!-- Languages -->
+    <a href="https://github.com/Marlstar?tab=repositories&q=&type=&language=rust">
+        <img src="https://skillicons.dev/icons?i=rust">
+    </a>
+    <a href="https://github.com/Marlstar?tab=repositories&q=&type=&language=python">
+        <img src="https://skillicons.dev/icons?i=python">
+    </a>
+    <a href="https://github.com/IronLionsFTC/FTC24089">
+        <img src="https://skillicons.dev/icons?i=java">
+    </a>
+    <a href="https://github.com/Marlstar?tab=repositories&q=&type=&language=lua">
+        <img src="https://skillicons.dev/icons?i=lua">
+    </a>
+</div>
+<div align=center> <!-- IDEs -->
+    <a href="https://github.com/Marlstar/nvim">
+        <img src="https://skillicons.dev/icons?i=neovim">
+    </a>
+    <img src="https://skillicons.dev/icons?i=vscode">
+    <img src="https://skillicons.dev/icons?i=idea">
+    <img src="https://skillicons.dev/icons?i=androidstudio">
+</div>
+<div align=center> <!-- Github/Gitlab -->
+    <a href="https://github.com/marlstar">
+        <img src="https://skillicons.dev/icons?i=github">
+    </a>
+    <a href="https://gitlab.com/marlstar">
+        <img src="https://skillicons.dev/icons?i=gitlab">
+    </a>
+</div>
 
-[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/marlstar/nvim)
-[![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](#)
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlstar)
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/marlstar)
-
-### Software
-[![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)](#)
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](#)
-[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)](#)
-[![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)](#)
-
-### Socials
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marleyreeves)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/182377810722029568)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@themarlstar)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/themarlstar)
+<!-- Socials -->
+<div align=center>
+    <h2>Socials</h2>
+</div>
+<div align=center>
+    <a href="https://linkedin.com/in/marleyreeves">
+        <img src="https://skillicons.dev/icons?i=linkedin">
+    </a>
+    <a href="https://discord.com/users/182377810722029568">
+        <img src="https://skillicons.dev/icons?i=discord">
+    </a>
+    <a href="https://mastodon.social/@themarlstar">
+        <img src="https://skillicons.dev/icons?i=mastodon">
+    </a>
+    <a href="https://x.com/themarlstar">
+        <img src="https://skillicons.dev/icons?i=twitter">
+    </a>
+</div>
 
 <!--- >
 <p align=center><img

@@ -2,11 +2,11 @@
 <h1>Marley Reeves</h1>
 Hello! I'm a teen aspiring software engineer from Australia <br>
 I love climbing 🧗 and coding 💻
+</div>
 
-<code style="margin:0px; padding:0px">
- <span style="color:#86e1fc">println!</span><span style="color:#828bb8;display:inline">(</span><span style="color:#c3e88d">"Huge Rust enthusiast"</span><span style="color:#828bb8">)</span>
-</code>
-</div><br>
+<div align=center>
+<img src="https://raw.githubusercontent.com/Marlstar/Marlstar/refs/heads/main/rust_enthusiast_code_snapshot.png" width=60%>
+</div>
 
 <!-- Stats -->
 <div align=center><img

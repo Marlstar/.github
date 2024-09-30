@@ -1,8 +1,11 @@
 <div align=center>
 <h1>Marley Reeves</h1>
 Hello! I'm a teen aspiring software engineer from Australia <br>
-I love climbing 🧗 and coding 💻 <br>
-Huge rust <img src="https://skillicons.dev/icons?i=rust" style="width:0.9em;height:0.9em"> enthusiast
+I love climbing 🧗 and coding 💻
+
+<code style="margin:0px; padding:0px">
+ <span style="color:#86e1fc">println!</span><span style="color:#828bb8;display:inline">(</span><span style="color:#c3e88d">"Huge Rust enthusiast"</span><span style="color:#828bb8">)</span>
+</code>
 </div><br>
 
 <!-- Stats -->
